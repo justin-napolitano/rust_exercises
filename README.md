@@ -1,1 +1,1 @@
-# rust_exercises
+# rust_exercises from "The Book"
