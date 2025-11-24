@@ -1,12 +1,26 @@
 ---
-slug: "github-rust-exercises"
-title: "rust_exercises"
-repo: "justin-napolitano/rust_exercises"
-githubUrl: "https://github.com/justin-napolitano/rust_exercises"
-generatedAt: "2025-11-23T09:33:51.257954Z"
-source: "github-auto"
+slug: github-rust-exercises
+title: 'Rust Exercises: Practical Guessing Game Demonstrating Rust Basics'
+repo: justin-napolitano/rust_exercises
+githubUrl: https://github.com/justin-napolitano/rust_exercises
+generatedAt: '2025-11-23T09:33:51.257954Z'
+source: github-auto
+summary: >-
+  Rust exercises repository with a guessing game example illustrating Rust fundamentals like control
+  flow, error handling, and crate usage.
+tags:
+  - rust
+  - programming-exercise
+  - guessing-game
+  - rand-crate
+  - cargo
+seoPrimaryKeyword: rust exercises
+seoSecondaryKeywords:
+  - guessing game
+  - rust fundamentals
+  - rand crate
+seoOptimized: true
 ---
-
 
 # rust_exercises: A Technical Reference
 
