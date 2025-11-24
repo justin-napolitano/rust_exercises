@@ -20,6 +20,14 @@ seoSecondaryKeywords:
   - rust fundamentals
   - rand crate
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.8
+topicFamilyNotes: >-
+  The post is about a Rust programming exercise involving a guessing game implemented with crates,
+  control flow, and error handling. While not pure automation, the topic catalog's closest relevant
+  family for programming projects, especially those involving scripting or executable code, is
+  'automation'. Other families focus on non-programming content or tooling setup. The post
+  illustrates practical programming and code example usage, aligning best with 'automation'.
 ---
 
 # rust_exercises: A Technical Reference
@@ -62,3 +70,4 @@ The program also prints the secret number at the start, which is presumably for 
 - Document code with comments to improve maintainability.
 
 This repository functions as a baseline reference for revisiting Rust fundamentals through practical coding examples.
+
