@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/rust_exercises
 generatedAt: '2025-11-24T21:36:13.454Z'
 source: github-auto
 summary: >-
-  Explore a collection of Rust exercises, including a guessing game, to enhance
-  your understanding of the Rust programming language.
+  Explore a collection of Rust exercises, including a guessing game, to enhance your understanding
+  of the Rust programming language.
 tags:
   - rust
   - cargo
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - cargo commands
   - rust learning resources
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: devtools
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -92,3 +92,4 @@ rust_exercises/
 ---
 
 *Note: This README assumes the Reference folder contains supplementary materials, though details are not provided.*
+
