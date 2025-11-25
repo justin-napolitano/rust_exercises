@@ -1,33 +1,44 @@
 ---
 slug: github-rust-exercises
-title: 'Rust Exercises: Practical Guessing Game Demonstrating Rust Basics'
+title: Rust Exercises Repository for Practical Programming Skills
 repo: justin-napolitano/rust_exercises
 githubUrl: https://github.com/justin-napolitano/rust_exercises
 generatedAt: '2025-11-23T09:33:51.257954Z'
 source: github-auto
 summary: >-
-  Rust exercises repository with a guessing game example illustrating Rust fundamentals like control
-  flow, error handling, and crate usage.
+  Explore hands-on Rust programming exercises, focusing on a guessing game to
+  solidify your understanding of Rust fundamentals.
 tags:
   - rust
   - programming-exercise
   - guessing-game
   - rand-crate
   - cargo
-seoPrimaryKeyword: rust exercises
-seoSecondaryKeywords:
   - guessing game
-  - rust fundamentals
   - rand crate
+  - error handling
+  - control flow
+  - input/output
+seoPrimaryKeyword: rust programming exercises
+seoSecondaryKeywords:
+  - rust fundamentals
+  - rust guessing game
+  - cargo project structure
+  - error handling in rust
+  - rust control flow
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.8
 topicFamilyNotes: >-
-  The post is about a Rust programming exercise involving a guessing game implemented with crates,
-  control flow, and error handling. While not pure automation, the topic catalog's closest relevant
-  family for programming projects, especially those involving scripting or executable code, is
-  'automation'. Other families focus on non-programming content or tooling setup. The post
-  illustrates practical programming and code example usage, aligning best with 'automation'.
+  The post is about a Rust programming exercise involving a guessing game
+  implemented with crates, control flow, and error handling. While not pure
+  automation, the topic catalog's closest relevant family for programming
+  projects, especially those involving scripting or executable code, is
+  'automation'. Other families focus on non-programming content or tooling
+  setup. The post illustrates practical programming and code example usage,
+  aligning best with 'automation'.
+kind: project
+id: github-rust-exercises
 ---
 
 # rust_exercises: A Technical Reference
