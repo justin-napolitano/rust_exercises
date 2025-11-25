@@ -1,20 +1,30 @@
 ---
 slug: github-rust-exercises
 id: github-rust-exercises
-title: rust_exercises
+title: Rust Exercises Repository for Practical Learning
 repo: justin-napolitano/rust_exercises
 githubUrl: https://github.com/justin-napolitano/rust_exercises
 generatedAt: '2025-11-24T21:36:13.454Z'
 source: github-auto
 summary: >-
-  This repository contains Rust exercises inspired by "The Rust Programming
-  Language" book (commonly known as "The Book"). It serves as a practical
-  workspace to implement and experiment with Rust concepts through small
-  projects.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a collection of Rust exercises, including a guessing game, to enhance
+  your understanding of the Rust programming language.
+tags:
+  - rust
+  - cargo
+  - rand
+  - guessing game
+  - rust exercises
+  - programming
+  - learning
+seoPrimaryKeyword: rust exercises repository
+seoSecondaryKeywords:
+  - rust programming language
+  - guessing game in rust
+  - rust projects
+  - cargo commands
+  - rust learning resources
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
